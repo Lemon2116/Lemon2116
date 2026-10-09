@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/welcome-banner.svg" alt="Welcome! This is Lemon!" />
+<img src="./assets/welcome_banner.svg" alt="Welcome! This is Lemon!" />
 
 </div>
 
