@@ -1,0 +1,62 @@
+<svg width="420" height="140" viewBox="0 0 420 140" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .txt {
+        font-family: 'Slabo 13px', Georgia, 'Times New Roman', serif;
+        font-size: 32px;
+        font-weight: 700;
+      }
+      .white { fill: #ffffff; }
+      .yellow { fill: #ffeb99; }
+    </style>
+    <clipPath id="clipLine1">
+      <rect x="0" y="0" width="0" height="140">
+        <animate attributeName="width"
+                 values="0;170;170;0;0"
+                 keyTimes="0;0.21;0.8;0.86;1"
+                 dur="7s"
+                 repeatCount="indefinite" />
+      </rect>
+    </clipPath>
+    <clipPath id="clipLine2">
+      <rect x="0" y="0" width="0" height="140">
+        <animate attributeName="width"
+                 values="0;0;280;280;0;0"
+                 keyTimes="0;0.29;0.5;0.8;0.86;1"
+                 dur="7s"
+                 repeatCount="indefinite" />
+      </rect>
+    </clipPath>
+  </defs>
+
+  <rect x="0" y="0" width="420" height="140" rx="16" fill="#000000" />
+
+  <g clip-path="url(#clipLine1)">
+    <text x="24" y="55" class="txt">
+      <tspan class="white">Welcome!</tspan>
+    </text>
+  </g>
+
+  <g clip-path="url(#clipLine2)">
+    <text x="24" y="100" class="txt">
+      <tspan class="white">This is </tspan><tspan class="yellow">Lemon.</tspan>
+    </text>
+  </g>
+
+  <rect width="4" height="36" fill="#ffeb99">
+    <animate attributeName="x"
+             values="24;194;24;304;304;24;24"
+             keyTimes="0;0.21;0.29;0.5;0.8;0.86;1"
+             dur="7s"
+             repeatCount="indefinite" />
+    <animate attributeName="y"
+             values="30;30;75;75;75;75;30"
+             keyTimes="0;0.21;0.29;0.5;0.8;0.86;1"
+             dur="7s"
+             repeatCount="indefinite" />
+    <animate attributeName="opacity"
+             values="1;0;1"
+             dur="0.8s"
+             repeatCount="indefinite" />
+  </rect>
+</svg>
