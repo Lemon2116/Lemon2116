@@ -18,18 +18,18 @@
 ## 👋 About Me | 关于我
 
 - 🍋 Hi, I'm **Lemon** — living well, eating well, and learning well, one day at a time.
-- 🍋 你好，我是 **Lemon** —— 目前正在好好生活、好好吃饭、好好学习中。
+- 你好，我是 **Lemon** —— 目前正在好好生活、好好吃饭、好好学习中。
 - 🔭 Currently working on: real-time rendering shaders & tooling
-- 🔭 目前在做：实时渲染 Shader 与工具开发
+- 目前在做：实时渲染 Shader 与工具开发
 - 🎯 2026 goal: ship a playable demo of my indie game
-- 🎯 2026 目标：完成独立游戏 Demo
+- 2026 目标：完成独立游戏 Demo
 
 ---
 
 ## 🌐 Homepage | 个人主页
 
 > 🚧 My personal homepage is under construction — coming soon!
-> 🚧 个人主页制作中，敬请期待！
+> 个人主页制作中，敬请期待！
 
 - Preview link | 预览链接: [#](#)
 
@@ -57,20 +57,16 @@
 
 ## 🎨 Hobbies & Interests | 兴趣爱好
 
-- 🎮 ACG
-- 🎮 游戏/动漫/小说
-- 📸 Birding
-- 📸 观鸟
-- 🎵 Music — open to any genre
-- 🎵 音乐 —— 什么风格都听
-- ✈️ Travel — Yunnan, Northwest China & Jiangnan
-- ✈️ 旅行 —— 云南/西北/江南
+- 🎮 ACG 游戏/动漫/小说
+- 📸 Birding 观鸟
+- 🎵 Music — open to any genre 音乐 —— 什么风格都听
+- ✈️ Travel — Yunnan, Northwest China & Jiangnan 旅行 —— 云南/西北/江南
 
 ---
 
 <div align="center">
 
 🍋 Thanks for visiting my profile — feel free to reach out!
-🍋 感谢你的访问，欢迎随时联系我！
+感谢你的访问，欢迎随时联系我！
 
 </div>
