@@ -7,7 +7,6 @@
 <div align="center">
 
 <!-- 🔗 Social / Links 社交链接 -->
-[![Homepage](https://img.shields.io/badge/🌐_Homepage-Visit-brightgreen?style=for-the-badge)](https://portfolio-six-indol-94.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yimeng-gu-a84b9a266)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gymyolanda@gmail.com)
 
@@ -52,6 +51,9 @@
 
 **Languages 编程语言**
  `💻 C++` `🟨 GLSL` `🐍 Python` `☕ Java`
+
+**Tools 工具**
+ `Maya` `Blender` `MotionBuilder` `Unity` `UE5` `PhotoShop`
 
 ---
 
