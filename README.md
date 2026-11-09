@@ -7,7 +7,7 @@
 <div align="center">
 
 <!-- 🔗 Social / Links 社交链接 -->
-[![Homepage](https://img.shields.io/badge/🌐_Homepage-Coming_Soon-lightgrey?style=for-the-badge)](#)
+[![Homepage](https://img.shields.io/badge/🌐_Homepage-Visit-brightgreen?style=for-the-badge)](https://portfolio-six-indol-94.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yimeng-gu-a84b9a266)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gymyolanda@gmail.com)
 
@@ -28,10 +28,10 @@
 
 ## 🌐 Homepage | 个人主页
 
-> 🚧 My personal homepage is under construction — coming soon!
-> 个人主页制作中，敬请期待！
+> ✨ Check out my personal homepage!
+> 欢迎访问我的个人主页！
 
-- Preview link | 预览链接: [#](#)
+- Link | 链接: [portfolio-six-indol-94.vercel.app](https://portfolio-six-indol-94.vercel.app/)
 
 ---
 
